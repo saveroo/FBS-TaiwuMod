@@ -1,4 +1,4 @@
-﻿# Scroll of Taiwu private/self use mod
+# Scroll of Taiwu private/self use mod
 
 GameVersion: (0.0.63.42)
 

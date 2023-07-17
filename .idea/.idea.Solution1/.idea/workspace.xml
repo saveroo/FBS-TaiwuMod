@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39f9314c-2bd6-49fd-9ff0-6f04301cd2b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Solution1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FBSBackend/Patches/Building.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FBSBackend/Patches/FreeMovement.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FBSBackend/Patches/FreePractice.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FBSBackend/Patches/FreeProfession.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FBSBackend/macro.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FBSFrontend/Config.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FBSFrontend/PracticeBtn.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FBSMod.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Settings.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/post-debug.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +160,7 @@
       <workItem from="1689243481907" duration="3791000" />
       <workItem from="1689247859280" duration="4279000" />
       <workItem from="1689294611906" duration="16118000" />
-      <workItem from="1689340348158" duration="45842000" />
+      <workItem from="1689340348158" duration="46174000" />
     </task>
     <servers />
   </component>

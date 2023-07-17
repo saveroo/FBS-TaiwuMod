@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="0Harmony">
+        <HintPath>E:\Games\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll of Taiwu_Data\Managed\0Harmony.dll</HintPath>
+      </Reference>
+      <Reference Include="GameData">
+        <HintPath>E:\Games\Steam\steamapps\common\The Scroll Of Taiwu\Backend\GameData.dll</HintPath>
+      </Reference>
+      <Reference Include="TaiwuModdingLib">
+        <HintPath>E:\Games\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll of Taiwu_Data\Managed\TaiwuModdingLib.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

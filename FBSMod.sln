@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FBS", "FBS", "{7E443BC2-650F-4D27-994E-A5A5F3DEDE67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FBSFrontend", "FBSFrontend\FBSFrontend.csproj", "{B2CE056F-0A9B-438A-96B5-66C4C3663661}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FBSBackend", "FBSBackend\FBSBackend.csproj", "{F19CB53F-BD9B-4356-A65D-09342E734C21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2CE056F-0A9B-438A-96B5-66C4C3663661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CE056F-0A9B-438A-96B5-66C4C3663661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CE056F-0A9B-438A-96B5-66C4C3663661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CE056F-0A9B-438A-96B5-66C4C3663661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F19CB53F-BD9B-4356-A65D-09342E734C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F19CB53F-BD9B-4356-A65D-09342E734C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F19CB53F-BD9B-4356-A65D-09342E734C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F19CB53F-BD9B-4356-A65D-09342E734C21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B2CE056F-0A9B-438A-96B5-66C4C3663661} = {7E443BC2-650F-4D27-994E-A5A5F3DEDE67}
+		{F19CB53F-BD9B-4356-A65D-09342E734C21} = {7E443BC2-650F-4D27-994E-A5A5F3DEDE67}
+	EndGlobalSection
+EndGlobal

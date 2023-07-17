@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CGames_005CSteam_005Csteamapps_005Ccommon_005CThe_0020Scroll_0020Of_0020Taiwu_005CThe_0020Scroll_0020of_0020Taiwu_005FData_005CManaged_005C0Harmony_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CGames_005CSteam_005Csteamapps_005Ccommon_005CThe_0020Scroll_0020Of_0020Taiwu_005CThe_0020Scroll_0020of_0020Taiwu_005FData_005CManaged_005CAssembly_002DCSharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CGames_005CSteam_005Csteamapps_005Ccommon_005CThe_0020Scroll_0020Of_0020Taiwu_005CThe_0020Scroll_0020of_0020Taiwu_005FData_005CManaged_005CUnityEngine_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CGames_005CSteam_005Csteamapps_005Ccommon_005CThe_0020Scroll_0020Of_0020Taiwu_005CBackend_005CGameData_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CGames_005CSteam_005Csteamapps_005Ccommon_005CThe_0020Scroll_0020Of_0020Taiwu_005CBackend_005CSystem_002ERuntime_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CGames_005CSteam_005Csteamapps_005Ccommon_005CThe_0020Scroll_0020Of_0020Taiwu_005CThe_0020Scroll_0020of_0020Taiwu_005FData_005CManaged_005CTaiwuModdingLib_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CGames_005CSteam_005Csteamapps_005Ccommon_005CThe_0020Scroll_0020Of_0020Taiwu_005CBepInEx_005Ccore_005C0Harmony_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CGames_005CSteam_005Csteamapps_005Ccommon_005CThe_0020Scroll_0020Of_0020Taiwu_005CBackend_005CSystem_002ECollections_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CGames_005CSteam_005Csteamapps_005Ccommon_005CThe_0020Scroll_0020Of_0020Taiwu_005CBackend_005CSystem_002EPrivate_002ECoreLib_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CGames_005CSteam_005Csteamapps_005Ccommon_005CThe_0020Scroll_0020Of_0020Taiwu_005CBackend_005CSystem_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CGames_005CSteam_005Csteamapps_005Ccommon_005CThe_0020Scroll_0020Of_0020Taiwu_005CBackend_005CSystem_002EValueTuple_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CGames_005CSteam_005Csteamapps_005Ccommon_005CThe_0020Scroll_0020Of_0020Taiwu_005CBackend_005CSystem_002ECore_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CGames_005CSteam_005Csteamapps_005Ccommon_005CThe_0020Scroll_0020Of_0020Taiwu_005CBackend_005Cmscorlib_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005CGames_005CSteam_005Csteamapps_005Ccommon_005CThe_0020Scroll_0020Of_0020Taiwu_005CThe_0020Scroll_0020of_0020Taiwu_005FData_005CManaged_005CUnityEngine_002ECoreModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="E:\Games\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll of Taiwu_Data\Managed\TaiwuModdingLib.dll" /&gt;&#xD;
+  &lt;Assembly Path="E:\Games\Steam\steamapps\common\The Scroll Of Taiwu\Backend\GameData.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.dll" /&gt;&#xD;
+  &lt;Assembly Path="E:\Games\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll of Taiwu_Data\Managed\Assembly-CSharp.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
